@@ -6,7 +6,7 @@ This is the python version of "load_dataset.R"
 
 (Version 1.0.2, built: Wed Jul  7 15:45:17 2021)  
 
-## ## Copyright (C)2020 Bethelhem SEifu
+## ## Copyright (C)2020 Bethelhem Seifu
 """
 
 ## Import important Lib. 
